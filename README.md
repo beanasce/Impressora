@@ -73,6 +73,5 @@ Valores para teste na opção 1: tipo `1` (USB), modelo `i9` (ou `i8`), porta `U
 
 ## 👥 Autores
 
-- (nome do integrante 1)
-- (nome do integrante 2)
-- (nome do integrante 3)
+- Beatriz
+- Daniel
