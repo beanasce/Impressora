@@ -65,7 +65,7 @@ São 3 tentativas. Se errar as 3, o programa fecha.
 | 9 | Abrir gaveta (Elgin) |
 | 10 | Abrir gaveta |
 | 11 | Sinal sonoro |
-| 0 | Sair |
+| 0 | Sair | -
 
 Valores para teste na opção 1: tipo `1` (USB), modelo `i9` (ou `i8`), porta `USB`, parâmetro `0`.
 
